@@ -1,2 +1,3 @@
 #!/bin/bash 
-alias whoami = "Hello user"
+echo "hello $USER"
+
